@@ -58,9 +58,9 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="25" y="6995" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="1" top="6973" codecName="UTF-8"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="16" y="519" useTextEdit="1" openedFrom="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_beacon/openhaystack.h" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="58" codecName="UTF-8"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="30" useTextEdit="1" openedFrom="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_beacon/main.c" useBinaryEdit="0" left="0" path="../../../openhaystack.c" selected="0" top="10" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="37" y="6917" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="6904" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="29" y="450" useTextEdit="1" openedFrom="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_beacon/openhaystack.h" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="431" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="72" y="30" useTextEdit="1" openedFrom="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_beacon/main.c" useBinaryEdit="0" left="0" path="../../../openhaystack.c" selected="0" top="0" codecName="UTF-8"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="18" y="12" useTextEdit="1" openedFrom="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_beacon/main.c" useBinaryEdit="0" left="0" path="../../../openhaystack.h" selected="0" top="0" codecName="UTF-8"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="11" y="508" useTextEdit="1" openedFrom="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_beacon/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/common/ble_advdata.c" selected="0" top="566" codecName="UTF-8"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="33" y="133" useTextEdit="1" openedFrom="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_beacon/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/common/ble_advdata.h" selected="0" top="118" codecName="UTF-8"/>
@@ -71,5 +71,5 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_wdt.h" selected="0" top="90" codecName="UTF-8"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_wdt.c" selected="0" top="117" codecName="UTF-8"/>
  </Files>
- <ARMCrossStudioWindow activeProject="ble_app_beacon_pca10056e_s112" fileDialogDefaultFilter="*" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/modules/nrfx/drivers/src" debugSearchPath="" autoConnectCapabilities="3711"/>
+ <ARMCrossStudioWindow activeProject="ble_app_beacon_pca10056e_s112" fileDialogDefaultFilter="*" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/ucl/lab/nRF5_SDK_17.1.0_ddde560/modules/nrfx/drivers/src" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

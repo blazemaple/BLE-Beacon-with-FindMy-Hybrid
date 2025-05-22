@@ -39,6 +39,7 @@
 "Output/Release/Obj/ble_app_beacon_pca10056e_s112/nrfx_uart.o"
 "Output/Release/Obj/ble_app_beacon_pca10056e_s112/nrfx_uarte.o"
 "Output/Release/Obj/ble_app_beacon_pca10056e_s112/nrfx_saadc.o"
+"Output/Release/Obj/ble_app_beacon_pca10056e_s112/nrfx_wdt.o"
 "Output/Release/Obj/ble_app_beacon_pca10056e_s112/bsp.o"
 "Output/Release/Obj/ble_app_beacon_pca10056e_s112/main.o"
 "Output/Release/Obj/ble_app_beacon_pca10056e_s112/openhaystack.o"

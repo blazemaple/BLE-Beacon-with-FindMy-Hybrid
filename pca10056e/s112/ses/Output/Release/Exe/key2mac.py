@@ -11,6 +11,11 @@ def set_addr_from_key(base64_key):
         return None
     binary_key_str = ", ".join(f"{b:02X}" for b in binary_key)
     print(f"解碼後的 binary_key: {binary_key_str}")
+    # 轉成 C 語言的陣列格式
+    public_key_array = ", ".join(f"0x{b:02X}" for b in binary_key)
+    print(f"轉成 C 語言的陣列格式: {public_key_array}")
+    code = "static char public_key[28] = { " + public_key_array + " };"
+    print(code)
 
     # 設定 addr
     addr = [0] * 6
@@ -22,7 +27,7 @@ def set_addr_from_key(base64_key):
     addr[5] = binary_key[5]
 
     return addr
-adv_b64 = "l/Za7o+0viIcJQDfoPyo1zuJJSrDo5UCMHbNYA=="
+adv_b64 = "+6+JjhLMG2tJTx6LSQzM6u1Lxal/fXdHnHrg8w=="
 addr = set_addr_from_key(adv_b64)
 if addr:
     addr_str = ":".join(f"{b:02X}" for b in addr)

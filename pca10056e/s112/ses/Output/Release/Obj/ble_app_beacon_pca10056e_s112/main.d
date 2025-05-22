@@ -89,6 +89,9 @@ Output/Release/Obj/ble_app_beacon_pca10056e_s112/main.o: \
  ../../../../../../components/libraries/log/nrf_log_ctrl.h \
  ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
+ ../../../../../../integration/nrfx/legacy/nrf_drv_wdt.h \
+ ../../../../../../modules/nrfx/drivers/include/nrfx_wdt.h \
+ ../../../../../../modules/nrfx/hal/nrf_wdt.h \
  ../../../../../../integration/nrfx/legacy/nrf_drv_clock.h \
  ../../../../../../modules/nrfx/drivers/include/nrfx_clock.h \
  ../../../../../../modules/nrfx/hal/nrf_clock.h \

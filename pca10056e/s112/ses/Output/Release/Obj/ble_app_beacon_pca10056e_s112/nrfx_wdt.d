@@ -1,5 +1,5 @@
-Output/Debug/Obj/ble_app_beacon_pca10056e_s112/drv_rtc.o: \
- C:\Users\ucl\lab\nRF5_SDK_17.1.0_ddde560\components\libraries\timer\drv_rtc.c \
+Output/Release/Obj/ble_app_beacon_pca10056e_s112/nrfx_wdt.o: \
+ C:\Users\ucl\lab\nRF5_SDK_17.1.0_ddde560\modules\nrfx\drivers\src\nrfx_wdt.c \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
@@ -52,9 +52,9 @@ Output/Debug/Obj/ble_app_beacon_pca10056e_s112/drv_rtc.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_sd_def.h \
  ../../../../../../components/softdevice/s112/headers/nrf_soc.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- ../../../../../../components/libraries/delay/nrf_delay.h \
- ../../../../../../components/libraries/timer/drv_rtc.h \
- ../../../../../../modules/nrfx/hal/nrf_rtc.h \
+ ../../../../../../modules/nrfx/drivers/include/nrfx_wdt.h \
+ ../../../../../../modules/nrfx/hal/nrf_wdt.h \
+ ../../../../../../integration/nrfx/nrfx_log.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/string.h \
